@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "TestMultibindings"
 include(":app")
- 
+include(":test1")
+include(":test2")
