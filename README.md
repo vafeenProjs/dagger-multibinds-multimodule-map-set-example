@@ -1,0 +1,1 @@
+# Dagger 2 multibinds map and set in multimodule project example
